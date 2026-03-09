@@ -1,0 +1,7 @@
+numpy
+onnx
+onnxruntime
+packaging
+pytest
+setuptools
+wheel

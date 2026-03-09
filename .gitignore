@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+*.egg
+dist/
+build/
+*.whl
+
+# Virtual environment
+.venv/
+venv/
+env/
+.env
+
+# Pytest / coverage
+.pytest_cache/
+.coverage
+htmlcov/
+*.log
+
+# Runtime output (build artifacts, logs, reports generated during runs)
+run_output/
+verification_tests/
+
+# IDE / editor
+.vscode/
+.idea/
+*.suo
+*.user
+*.swp
+*~
+
+# OS
+Thumbs.db
+.DS_Store
